@@ -7,7 +7,9 @@ My personal CV website, built with HTML and CSS.
 ## Sections
 - Education
 - Skills
+- Experience
 - Projects
+- About Me
 
 ## Technologies
 HTML, CSS
